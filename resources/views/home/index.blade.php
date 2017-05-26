@@ -31,16 +31,9 @@
                     <div class="col-offset-md-1 col-md-4 col-sm-4">
 
                         <div class="portlet light ">
-                            <div class="portlet-title">
-                                <div class="caption caption-md">
-                                    <i class="icon-bar-chart font-dark hide"></i>
-                                    <span class="caption-subject font-green-steel uppercase bold">Discord</span>
-                                </div>
-                            </div>
-
                             <div class="portlet-body">
 
-                                <iframe src="https://discordapp.com/widget?id=317394773034008577&theme=light" width="325" height="300" allowtransparency="true" frameborder="0"></iframe>
+                                <iframe src="https://discordapp.com/widget?id=317394773034008577&theme=dark" width="325" height="300" allowtransparency="true" frameborder="0"></iframe>
 
                             </div>
                         </div>
@@ -48,7 +41,7 @@
                             <div class="portlet-title">
                                 <div class="caption caption-md">
                                     <i class="icon-bar-chart font-dark hide"></i>
-                                    <span class="caption-subject font-green-steel uppercase bold">Online</span>
+                                    <span class="caption-subject font-green-steel uppercase bold">Online Players</span>
                                 </div>
                             </div>
 

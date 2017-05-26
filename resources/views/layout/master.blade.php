@@ -85,17 +85,9 @@
                         <div class="hor-menu  ">
                             <ul class="nav navbar-nav">
                                 <li aria-haspopup="true" class="menu-dropdown classic-menu-dropdown ">
-                                    <a href="javascript:;"> Dropdown
+                                    <a href="/"> Home
                                         <span class="arrow"></span>
                                     </a>
-                                    <ul class="dropdown-menu pull-left">
-                                        <li aria-haspopup="true" class="">
-                                            <a href="" class="nav-link  ">
-                                                <i class="icon-bar-chart"></i> Thing
-                                                <span class="badge badge-success">1</span>
-                                            </a>
-                                        </li>
-                                    </ul>
                                 </li>
                                 <li aria-haspopup="true" class="menu-dropdown classic-menu-dropdown ">
                                     <a href="javascript:;"> Database
@@ -104,7 +96,25 @@
                                     <ul class="dropdown-menu pull-left">
                                         <li aria-haspopup="true" class="">
                                             <a href="" class="nav-link  ">
-                                                <i class="icon-bar-chart"></i> Thing
+                                                <i class="icon-bar-chart"></i> Items
+                                                <span class="badge badge-success">1</span>
+                                            </a>
+                                        </li>
+                                        <li aria-haspopup="true" class="">
+                                            <a href="" class="nav-link  ">
+                                                <i class="icon-bar-chart"></i> Mobs
+                                                <span class="badge badge-success">1</span>
+                                            </a>
+                                        </li>
+                                        <li aria-haspopup="true" class="">
+                                            <a href="" class="nav-link  ">
+                                                <i class="icon-bar-chart"></i> NM Timers
+                                                <span class="badge badge-success">1</span>
+                                            </a>
+                                        </li>
+                                        <li aria-haspopup="true" class="">
+                                            <a href="" class="nav-link  ">
+                                                <i class="icon-bar-chart"></i> Player Info
                                                 <span class="badge badge-success">1</span>
                                             </a>
                                         </li>
@@ -129,9 +139,8 @@
                                     </a>
                                     <ul class="dropdown-menu pull-left">
                                         <li aria-haspopup="true" class="">
-                                            <a href="" class="nav-link  ">
-                                                <i class="icon-bar-chart"></i> Thing
-                                                <span class="badge badge-success">1</span>
+                                            <a href="/shop" class="nav-link  ">
+                                                <i class="icon-basket"></i>  No Time Shop
                                             </a>
                                         </li>
                                     </ul>
@@ -143,7 +152,13 @@
                                     <ul class="dropdown-menu pull-left">
                                         <li aria-haspopup="true" class="">
                                             <a href="" class="nav-link  ">
-                                                <i class="icon-bar-chart"></i> Thing
+                                                <i class="icon-bar-chart"></i> My Profile
+                                                <span class="badge badge-success">1</span>
+                                            </a>
+                                        </li>
+                                        <li aria-haspopup="true" class="">
+                                            <a href="" class="nav-link  ">
+                                                <i class="icon-bar-chart"></i> Login | Logout
                                                 <span class="badge badge-success">1</span>
                                             </a>
                                         </li>
