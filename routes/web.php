@@ -14,3 +14,10 @@
 Route::get('/', function () {
     return view('home.index');
 });
+Route::get('/shop', function () {
+    return view('shop.shop');
+});
+
+Route::get('/characters_online', 'Character\CharacterController@online_players_all');
+Route::get('/characters_profile', 'CharacterController@player_profile');
+Route::get('/characters_search', 'CharacterController@search_player');
